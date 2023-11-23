@@ -6,6 +6,9 @@
   - [(In Progress) JumboCash Pen Testing](https://github.com/chrisbann/JumboCashPenTest)
 - <b>Capture the Flag (Kali Linux, Wireshark, MongoDB, NMap, SQLMap)</b>
   - [Intro to Security Lab 8: Capture the Flags](https://github.com/chrisbann/CTF-Fall-2023)
+- <b>Computer Organization (VHDL, Legv8 Assembly, Computer Architecture)</b>
+  - [Development of a pipelined CPU](https://github.com/chrisbann/ComputerOrganization)
+
 
 
 <h2> 🤳 Connect with me:</h2>
