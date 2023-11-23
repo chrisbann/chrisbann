@@ -2,7 +2,8 @@
 
 <h2>Projects:</h2>
 
-Work in Progress
+- <b>Pen Test (SQLmap)</b>
+  - [(In Progress) JumboCash Pen Testing](https://github.com/chrisbann/JumboCashPenTest)
 
 <h2> 🤳 Connect with me:</h2>
 
