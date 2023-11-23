@@ -8,6 +8,8 @@
   - [Intro to Security Lab 8: Capture the Flags](https://github.com/chrisbann/CTF-Fall-2023)
 - <b>Computer Organization (VHDL, Legv8 Assembly, Computer Architecture)</b>
   - [Development of a pipelined CPU](https://github.com/chrisbann/ComputerOrganization)
+- <b>Google CyberSecurity Professional Certificate</b>
+  - [Activities](https://github.com/chrisbann/GoogleCert)
 
 
 
