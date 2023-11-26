@@ -1,17 +1,18 @@
 <h1>Hi, I'm Chris! <br/><a href="https://github.com/chrisbann">Computer Engineer</a>, <a href="https://www.linkedin.com/in/chris-tl-bann/">with a passion for CyberSecurity</a></h1>
 
-<h2>Projects:</h2>
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Pen Test (SQLmap)</b>
   - [(In Progress) JumboCash Pen Testing](https://github.com/chrisbann/JumboCashPenTest)
 - <b>Capture the Flag (Kali Linux, Wireshark, MongoDB, NMap, SQLMap)</b>
   - [Intro to Security Lab 8: Capture the Flags](https://github.com/chrisbann/CTF-Fall-2023)
-- <b>Computer Organization (VHDL, Legv8 Assembly, Computer Architecture)</b>
-  - [Development of a pipelined CPU](https://github.com/chrisbann/ComputerOrganization)
 - <b>Google CyberSecurity Professional Certificate</b>
   - [Activities](https://github.com/chrisbann/GoogleCert)
 
+<h2>Computer Engineering Projects:</h2>
 
+- <b>Computer Organization (VHDL, Legv8 Assembly, Computer Architecture)</b>
+  - [Development of a pipelined CPU](https://github.com/chrisbann/ComputerOrganization)
 
 <h2> 🤳 Connect with me:</h2>
 
