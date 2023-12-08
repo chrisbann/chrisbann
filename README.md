@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Pen Test (SQLmap)</b>
-  - [(In Progress) JumboCash Pen Testing](https://github.com/chrisbann/JumboCashPenTest)
+- <b>Pen Test (SQLmap) (IP)</b>
+  - [JumboCash Pen Testing](https://github.com/chrisbann/JumboCashPenTest)
 - <b>Capture the Flag (Kali Linux, Wireshark, MongoDB, NMap, SQLMap)</b>
   - [Intro to Security Lab 8: Capture the Flags](https://github.com/chrisbann/CTF-Fall-2023)
-- <b>Google CyberSecurity Professional Certificate (In Progress)</b>
+- <b>Google CyberSecurity Professional Certificate (IP)</b>
   - [Activities](https://github.com/chrisbann/GoogleCert)
-- <b>PiHole </b>
+- <b>PiHole (IP)</b>
   - [Journey](https://github.com/chrisbann/PiHole)
 
 <h2>Computer Engineering Projects:</h2>
