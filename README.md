@@ -8,6 +8,8 @@
   - [Intro to Security Lab 8: Capture the Flags](https://github.com/chrisbann/CTF-Fall-2023)
 - <b>Google CyberSecurity Professional Certificate (In Progress)</b>
   - [Activities](https://github.com/chrisbann/GoogleCert)
+- <b>PiHole </b>
+  - [Journey](https://github.com/chrisbann/PiHole)
 
 <h2>Computer Engineering Projects:</h2>
 
